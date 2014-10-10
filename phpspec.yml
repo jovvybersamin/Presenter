@@ -1,0 +1,5 @@
+suites:
+  mikro_suite:
+    namespace: Mikro
+    src_path: src
+    spec_prefix: spec
